@@ -1,7 +1,7 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/0xnyxo/Legends-OF-Speed">
-    <img src="https://github.com/0xnyxo/Legends-OF-Speed/blob/main/pic/v.png" alt="Logo" style="width: 100%; height: 100%;">
+    <img src="https://github.com/0xnyxo/Legends-OF-Speed/blob/main/pic/Vyxon.jpg" alt="Logo" style="width: 100%; height: 100%;">
   </a>
   </kbd>
   
